@@ -1,6 +1,6 @@
 <div align="center">
 
-# Fine-Tuning Gemma-3B for Code Generation 🐍
+# Fine-Tuning Gemma-1B for Code Generation 🐍
 
 *A project demonstrating how to fine-tune the `unsloth/gemma-3-1b-it` model for Python code generation using Unsloth's optimized LoRA implementation.*
 
