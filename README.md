@@ -7,7 +7,7 @@
 </div>
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
-![Python](https://img.shields.io/badge/Python-3.9+-3776AB?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-3776AB?logo=python)
 ![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?logo=pytorch)
 ![Hugging Face](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Model-yellow)
 
