@@ -1,0 +1,5 @@
+llm/
+.merged_model.Q8_0.gguf
+unsloth_compiled_cache/
+merged_model/
+outputs/
