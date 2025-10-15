@@ -6,3 +6,5 @@ accelerate
 bitsandbytes
 datasets
 transformers
+tensorboard
+matplotlib
