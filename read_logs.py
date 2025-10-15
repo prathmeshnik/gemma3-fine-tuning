@@ -53,5 +53,5 @@ def read_tensorboard_logs(log_dir, output_dir="log_plots"):
 
 
 if __name__ == '__main__':
-    log_directory = "D:\\PRATHMESH NIKAM\\Downloads\\VS\\llm-fine-tuning\\logs"
+    log_directory = "logs"
     read_tensorboard_logs(log_directory)
