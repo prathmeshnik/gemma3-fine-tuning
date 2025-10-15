@@ -3,3 +3,7 @@ llm/
 unsloth_compiled_cache/
 merged_model/
 outputs/
+outputs (1k)/
+model card/
+llama.cpp/
+Documentation/
