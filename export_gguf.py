@@ -7,7 +7,7 @@ def export_to_gguf():
     
     # Load the trained model from checkpoint
     model, tokenizer = FastLanguageModel.from_pretrained(
-        model_name="outputs/checkpoint-9306",
+        model_name="outputs/checkpoint-625",
         max_seq_length=8192,
         dtype=None,
         load_in_4bit=True,
