@@ -53,7 +53,7 @@ The project follows a clear, three-step process from training to a deployable mo
 ```mermaid
 graph TD;
     A[Base Model: gemma-3-1b-it] --> C{main.py};
-    B[Dataset: python-codes.json] --> C;
+    B[Dataset: code_instructions_120k_alpaca] --> C;
     C -- LoRA Fine-Tuning --> D[LoRA Adapters in /outputs];
     D --> E{export_gguf.py};
     A --> E;
