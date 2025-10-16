@@ -42,7 +42,7 @@ This repository provides a complete pipeline for fine-tuning a small, powerful l
 
 The final GGUF model, as well as the LoRA adapters, are available for direct download from the Hugging Face Hub.
 
-<a href="YOUR_HUGGING_FACE_MODEL_LINK_HERE" target="_blank">
+<a href="https://huggingface.co/prathmesh-nik/Gemma-3-1B-Code-Alpaca-FT" target="_blank">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-View%20Model-blue" alt="Hugging Face Model" />
 </a>
 
